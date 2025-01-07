@@ -1,0 +1,1 @@
+Processes raw RF signal data from drones, stored in paired CSV files (L and H parts of each segment), to generate normalized spectrograms for visualization and machine learning tasks. It combines, normalizes, and converts the data into spectrogram images, facilitating applications like drone detection.
